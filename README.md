@@ -1,6 +1,6 @@
 # Hi, i'm zira!
 
-# - Currently learning Kotlin
+# - Currently learning Kotlin and FabricMC
 # - My pronouns are he/him
 
    <p>
