@@ -5,14 +5,12 @@
 
    <p>
   <img
-    src="https://raw.githubusercontent.com/zira-git/github-embeds/main/Kotlin icon.png"
+    src="https://raw.githubusercontent.com/zira-git/github-embeds/main/Kotlin icon.png"  <p>
+  <img
+    src="https://raw.githubusercontent.com/zira-git/github-embeds/main/logo.png" 
     height="28"
   />
 </p>
-
- <p>
-  <img
-    src="https://raw.githubusercontent.com/zira-git/github-embeds/main/logo.png"
     height="28"
   />
 </p>
