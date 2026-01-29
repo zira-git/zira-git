@@ -1,4 +1,4 @@
-# Hi, i'm zira! (calico cat furry)
+# Hi, i'm zira!
 
 # - Currently learning Kotlin
 # - My pronouns are he/him
