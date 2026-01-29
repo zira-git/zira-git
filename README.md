@@ -9,8 +9,7 @@
     height="28"
   />
 </p>
-
-  <p>
+ <p>
   <img
     src="https://raw.githubusercontent.com/zira-git/github-embeds/main/logo.png" 
     height="28"
