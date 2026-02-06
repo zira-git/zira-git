@@ -1,4 +1,4 @@
-# Hi, i'm zira!
+# Hi, i'm zira! (https://codeberg.org/zira)
 
 # - Currently learning Kotlin
 # - My pronouns are he/him
