@@ -1,6 +1,6 @@
-# Hi, i'm zira! (https://codeberg.org/zira)
+# Hi, i'm zira!
 
-# - Currently learning Kotlin
+# - Currently learning Java
 # - My pronouns are he/him
 
    <p>
@@ -9,10 +9,3 @@
     height="28"
   />
 </p>
-
-# Migration to Codeberg
-- My projects have started a migration to Codeberg they will be marked as MIGRATED when migration is complete.
-- Currently migrated: KEngine (Nova) (https://codeberg.org/zira/Nova), ngg-kt-edition (https://codeberg.org/zira/ngg-kt-edition)
-- My Codeberg: https://codeberg.org/zira
-# Projects have completed migration
-## - This account will be deleted on June 7th 2027 (6/7/27) (149 days as of 2/7/26)
