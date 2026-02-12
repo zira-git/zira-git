@@ -6,6 +6,6 @@
 <p>
   <img
     src="https://raw.githubusercontent.com/zira-git/github-embeds/main/Java_(programming_language)-Logo.wine.png"
-    height="28"
+    height="100"
   />
 </p>
