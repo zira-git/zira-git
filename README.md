@@ -1,4 +1,4 @@
 # Hi, i'm zira!
 
-# - Currently learning Gleam
+# - Currently learning Rust
 # - My pronouns are he/him
